@@ -1,0 +1,1 @@
+Read Me:Installation instructions: Make sure you run the workspace.Hardware: The application should be used on phone.Login Requirements: If you don’t want to create an account with your email you can log in with username: akleisner95@gmail.com pass: dodgersfan95.List of known bugs: none as far as I know.
